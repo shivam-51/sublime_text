@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+		bool binsrc(${1:vector<int> vec},int ${2:n}){
+int lo=0,high=${3:lim};$0
+while(lo<high){
+  ll mid=(lo+high)>>1;
+  if(n<vec[mid]){
+    high=mid;
+  }
+  else if(n>vec[mid])
+    lo=mid+1;
+  else
+    return true;
+}
+return false;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>binsrch</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

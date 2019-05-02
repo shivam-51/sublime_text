@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[
+/*
+    AUTHOR:shivam51
+    IIESTS
+*/
+  #include<bits/stdc++.h>
+  using namespace std;
+  //
+  #define MAX 100001
+  #define md 998244353
+  #define add accumulate
+  #define ll long long int
+  #define ff first
+  #define ss second
+  #define pb push_back
+  #define mp make_pair
+  #define vll vector<ll>
+  #define lb lower_bound
+  #define ub upper_bound
+  #define pll pair<ll,ll>
+  #define vpll vector<pll>
+  #define all(v) v.begin(), v.end()
+  #define rep(i,k,n) for(int i=k;i<n;i++)
+  #define hs ios_base::sync_with_stdio(false);cin.tie(NULL);
+  #define repa(a,n) for(int i=a;i<n;i++)
+  //
+  //
+  int main(){
+
+  }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>include</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
