@@ -37,6 +37,7 @@ but for my case as I stored the output.txt and input.txt in my a folder named pr
 ___
 ## Explanation of builds
 *why two builds for one language??*
+
 For python and c++ each there are two buildes one div and one cp. The cp one is for competitive programming it will accept inputs from a input.txt file and will output in a output.txt file.The dev one does everything on terminal it is usuefull while development ;~}.
 ___
 ## Looks 
