@@ -2,6 +2,8 @@ ___
 # sublime_text 
 *for linux*
 
+[install submile-text-3](https://www.sublimetext.com/3)
+
 This is my sublime text snippets and build system.
 
 just install sublime text 3 and replace the folder packages in installed packages with this .
@@ -35,9 +37,31 @@ but for my case as I stored the output.txt and input.txt in my a folder named pr
 ___
 ## Explanation of builds
 *why two builds for one language??*
+
 For python and c++ each there are two buildes one div and one cp. The cp one is for competitive programming it will accept inputs from a input.txt file and will output in a output.txt file.The dev one does everything on terminal it is usuefull while development ;~}.
 ___
 ## Looks 
 ***CPP-DEV***
 
 ![](screenshots/cpp-dev.gif)
+
+___
+
+***CPP-CP***
+
+![](screenshots/cpp-cp.gif)
+
+___
+
+***PYTHON-DEV***
+
+![](screenshots/python-dev.gif)
+
+___
+
+***PYTHON-CP***
+
+![](screenshots/python-cp.gif)
+
+___
+
