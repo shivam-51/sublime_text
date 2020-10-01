@@ -2,6 +2,8 @@ ___
 # sublime_text 
 *for linux*
 
+[install submile-text-3](https://www.sublimetext.com/3)
+
 This is my sublime text snippets and build system.
 
 just install sublime text 3 and replace the folder packages in installed packages with this .
@@ -41,3 +43,24 @@ ___
 ***CPP-DEV***
 
 ![](screenshots/cpp-dev.gif)
+
+___
+
+***CPP-CP***
+
+![](screenshots/cpp-cp.gif)
+
+___
+
+***PYTHON-DEV***
+
+![](screenshots/python-dev.gif)
+
+___
+
+***PYTHON-CP***
+
+![](screenshots/python-cp.gif)
+
+___
+
