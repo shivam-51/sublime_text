@@ -19,12 +19,12 @@ ___
 heigth = 5px
 weigth = 5px
 alt = "linux logo">
-For linux head over to the [linux folder](linux)
+For linux head over to the [linux folder](linux).
 
 <img src= "logos/microsoft.png"
 heigth = 5px
 weigth = 5px
 alt = "Microsoft logo">
-For windows head over to the [windows folder](windows)
+For windows head over to the [windows folder](windows).
 
 ___
