@@ -1,0 +1,3 @@
+{
+	"cmd": ["bash","-c","timeout 5s python3 '$file' <input.txt >output.txt" ]
+}
